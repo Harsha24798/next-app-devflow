@@ -1,8 +1,6 @@
 @import "tailwindcss";
 
-body { font-family: "Inter", sans-serif; }
-
-:root { --radius: 8px; }
+@plugin "@tailwindcss/typography";
 
 /* Define your theme variables */
  @theme { 
