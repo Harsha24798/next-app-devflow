@@ -2,6 +2,10 @@
 
 @plugin "@tailwindcss/typography";
 
+.test-class {
+  font-family: var(--font-space-grotesk);
+}
+
 /* Define your theme variables */
  @theme { 
   /* Colors */ 
