@@ -31,7 +31,7 @@ const SignUp = () => {
               <span className="w-full border-t" />
             </div>
             <div className="relative flex justify-center text-xs uppercase">
-              <span className="bg-background px-2 text-muted-foreground">Or sign up with email</span>
+              <span className="bg-background px-2 text-muted-foreground  pb-6">Or sign up with email</span>
             </div>
           </div>
 
